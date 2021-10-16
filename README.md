@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArnaudCHELET
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on evrything
+- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me arnaud-ch@wanadoo.fr
 
 <!---
